@@ -52,3 +52,4 @@ jobs:
     - name: Test
       run: |
         echo "I was to lazy to write tests"
+
